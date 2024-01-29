@@ -1,5 +1,4 @@
-Text,University name,Address,Latitude,Longitude,Found Address,Match Quality,Source
 Prague University of Business and Economices (VSE), Prague University of Business and Economices (VSE),"nám. Winstona Churchilla 1938/4, 120 00 Praha 3-Žižkov, Tsjechië",50.08323784446718,14.440471468818288,"nám. Winstona Churchilla 1938/4, 120 00 Praha 3-Žižkov, Tsjechië",Match,Google
 VSB Technical University of Ostrava,VSB Technical University of Ostrava,"Sokolská tř. 2416/33, 702 00 Moravská Ostrava a Přívoz, Tsjechië",49.83967635512328,18.291416824629756,"Sokolská tř. 2416/33, 702 00 Moravská Ostrava a Přívoz, Tsjechië",Match,Google
 Metropolia University of Applied Sciences,Metropolia University of Applied Sciences,"Leiritie 1, 01600 Vantaa, Finland",60.258847805741176,24.845319135719297,"Leiritie 1, 01600 Vantaa, Finland",Match,Google
-Symbios University,Symbios University,"Senapati Bapat Rd, Shivajinagar, Pune, Maharashtra 411004, India",60.2583422,24.8418001,16,"Senapati Bapat Rd, Shivajinagar, Pune, Maharashtra 411004, India",Match,Google
+Symbios University,Symbios University,"Senapati Bapat Rd, Shivajinagar, Pune, Maharashtra 411004, India",18.52237280161958, 73.8294247370821,"Senapati Bapat Rd, Shivajinagar, Pune, Maharashtra 411004, India",Match,Google
